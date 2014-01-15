@@ -1,4 +1,4 @@
-Standard
+README
 ========
 
 Put all openPayment standard information in this repo.  Please try to keep everything in MD format while creating additional folders as needed.
